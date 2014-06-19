@@ -10,9 +10,8 @@ body {
 
 .wrap-left {
   font-size: 4em;
-  margin-top: 10vh;
-  margin-left: 3vw;
-  float: left; }
+  margin:0 auto;
+  }
   .wrap-left .name {
     font-size: 1.2em;
     font-weight: 800;
