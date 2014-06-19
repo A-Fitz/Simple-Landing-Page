@@ -28,7 +28,7 @@ body {
     .wrap-left .whatido a:hover, .wrap-left .whereiwork a:hover {
       text-decoration: underline; }
   .wrap-left .links {
-    margin-top: 4vh;
+    margin-top: 3vh;
 	margin-left: 32%;
     font-size: 0.7em;
     letter-spacing: 0.2em; }
