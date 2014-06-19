@@ -11,8 +11,8 @@ body {
 .wrap-left {
   font-size: 4em;
   position:absolute;
-  left:40%;
-  top:30%;
+  left:35%;
+  top:40%;
   }
   .wrap-left .name {
     font-size: 1.2em;
@@ -29,6 +29,7 @@ body {
       text-decoration: underline; }
   .wrap-left .links {
     margin-top: 4vh;
+	margin-left: 50%;
     font-size: 0.7em;
     letter-spacing: 0.2em; }
     .wrap-left .links a:hover {
