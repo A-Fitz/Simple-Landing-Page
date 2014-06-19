@@ -11,8 +11,8 @@ body {
 .wrap-left {
   font-size: 4em;
   position:absolute;
-  left:50%;
-  top:50%;
+  left:30%;
+  top:30%;
   }
   .wrap-left .name {
     font-size: 1.2em;
@@ -24,7 +24,7 @@ body {
         text-align: center; } }
   .wrap-left .whatido, .wrap-left .whereiwork {
     font-size: 0.4em;
-    }
+    margin-left: 0.45em; }
     .wrap-left .whatido a:hover, .wrap-left .whereiwork a:hover {
       text-decoration: underline; }
   .wrap-left .links {
