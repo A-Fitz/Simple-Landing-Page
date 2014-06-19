@@ -24,7 +24,7 @@ body {
         text-align: center; } }
   .wrap-left .whatido, .wrap-left .whereiwork {
     font-size: 0.4em;
-    margin-left: 0.45em; }
+    }
     .wrap-left .whatido a:hover, .wrap-left .whereiwork a:hover {
       text-decoration: underline; }
   .wrap-left .links {
