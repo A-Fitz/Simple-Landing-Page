@@ -11,7 +11,7 @@ body {
 .wrap-left {
   font-size: 4em;
   position:absolute;
-  left:30%;
+  left:50%;
   top:30%;
   }
   .wrap-left .name {
