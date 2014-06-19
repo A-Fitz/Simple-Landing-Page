@@ -33,7 +33,7 @@ body {
     font-size: 0.7em;
     letter-spacing: 0.2em; }
     .wrap-left .links a:hover {
-      color: #e6e6e6;
+      color: #aaaaaa;
       text-shadow: 2px 3px #1a5073; }
   @media screen and (max-width: 540px) {
     .wrap-left {
