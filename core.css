@@ -16,7 +16,7 @@ body {
   .wrap-left .name {
     font-size: 1.2em;
     font-weight: 800;
-    text-shadow: 2px 3px #1a5073; }
+    text-shadow: 2px 3px #fff; }
     @media screen and (max-width: 540px) {
       .wrap-left .name {
         font-size: 1em;
