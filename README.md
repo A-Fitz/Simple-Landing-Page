@@ -1,3 +1,3 @@
-oneappleboy.github.io
+Simple Landing Page
 =====================
-http://oab.name on github
+Extremely simple landing page.
