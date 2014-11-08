@@ -1,0 +1,19 @@
+@media only screen and (max-width: 767px) {
+
+	html{min-width: 100%;}
+
+	body{margin: 0; padding: 0;}
+	img{max-width: 100%;}
+
+
+	p {
+		width: 80%;
+	}
+
+
+	.social li {
+		list-style: none;
+		display: inline;
+		padding: 40px;
+	}
+
