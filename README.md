@@ -1,5 +1,5 @@
 Simple Landing Page
 =====================
-Extremely simple landing page.
+Extremely simple landing page with nice loading animation. 
 
-###[oab.pw](http://oab.pw)
+Not currently hosted on any domain.
